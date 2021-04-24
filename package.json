@@ -1,0 +1,8 @@
+{
+  "name": "refresh-count-plugin",
+  "version": "1.0.0",
+  "dependencies": {
+    "webpack": "^4.24.0"
+  },
+  "author": "liweimin",
+}
